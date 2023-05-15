@@ -1,1 +1,0 @@
-![android](assets/favicon.png)
